@@ -2,7 +2,7 @@
 
 # Running the Program!
 
-First user needs to install Anaconda https://www.anaconda.com/
+First, user needs to install Anaconda https://www.anaconda.com/
 
 Then
 
