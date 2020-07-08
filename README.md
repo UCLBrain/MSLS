@@ -24,5 +24,5 @@ finally
 After lunching the graphical user interface, user will need to provide necessary information to start training/testing as follows:  
 
 <br>
- <img height="500" src="GUI_NM.jpg" />
+ <img height="500" src="images/GUI.png" />
  </br>
