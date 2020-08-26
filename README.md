@@ -16,7 +16,7 @@ Le Zhang, Ryutaro Tanno, Kevin Bronik, Chen Jin, Parashkev Nachev, Frederik Bark
 
 
 <br>
- <img height="510" src="images/Miccai_2020.jpg"/>
+ <img height="1000" src="images/Miccai_2020.jpg"/>
 </br>
 
 
