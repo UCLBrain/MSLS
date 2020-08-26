@@ -16,7 +16,7 @@ Le Zhang, Ryutaro Tanno, Kevin Bronik, Chen Jin, Parashkev Nachev, Frederik Bark
 
 
 <br>
- <img height="2000" src="images/MPI.jpg"/>
+ <img height="1500" src="images/MPI.jpg"/>
 </br>
 
 
