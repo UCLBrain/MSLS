@@ -22,7 +22,7 @@ Le Zhang, Ryutaro Tanno, Kevin Bronik, Chen Jin, Parashkev Nachev, Frederik Bark
 
 <object data="https://github.com/UCLBrain/MSLS/MICCAI_2020.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/UCLBrain/MSLS/MICCAI_2020.pdf">
-        <p>Click here to see full pdf file: <a href="https://github.com/UCLBrain/MSLS/blob/master/MICCAI_2020.pdf">Link to PDF</a>.</p>
+        <p>Click here to see full pdf file: <a href="https://github.com/UCLBrain/MSLS/blob/master/MICCAI_2020.pdf">Link to PDF</a></p>
     </embed>
 </object>
 
