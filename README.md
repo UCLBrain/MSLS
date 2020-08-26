@@ -15,8 +15,8 @@
 Le Zhang, Ryutaro Tanno, Kevin Bronik, Chen Jin, Parashkev Nachev, Frederik Barkhof, Olga Ciccarelli, and Daniel C. Alexander, Learning to Segment When Experts Disagree, International Conference on Medical image computing and Computer-Assisted Intervention (MICCAI). Springer, Cham, 2020.
 
 
-<br>
- <img height="1000" src="images/Miccai_2020.jpg"/>
+<br align="center">
+ <img  height="1000" src="images/Miccai_2020.jpg"/>
 </br>
 
 
