@@ -78,7 +78,7 @@ for testing
 
 # Testing the Program!
 
-Examples of Training, Cross-validation and Testing subjects can be found in: https://github.com/kbronik2017/UCL_MS/tree/master/examples/mnist_dataset (which will allow users to quickly and easily train and test the program)
+Examples of Training and Testing subjects can be found in: https://github.com/UCLBrain/MSLS/tree/master/examples (which will allow users to quickly and easily train and test the program)
 
 <br>
  <img height="510" src="images/bin_seg_ex.jpg" />
